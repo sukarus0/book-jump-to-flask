@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Vi swp file
-.swp
+*.swp
